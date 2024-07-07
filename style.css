@@ -1,0 +1,212 @@
+
+html{
+scroll-behavior: smooth;
+}
+
+body{
+  border-radius: 29px;
+  background: #fff0f0;
+  box-shadow:  -50px 50px 100px #666060,
+               50px -50px 100px #ffffff;
+
+}
+
+*{
+  margin:0;
+  }
+  
+
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+font-size: 80px;
+margin: 50px;
+color: hotpink;
+text-shadow: 5px 5px 0px blue;
+}
+
+.ByMe{
+text-align:center;
+font-size:20px;
+height: 100px;
+}
+
+.pic1{
+display: block; 
+margin: auto;
+width: 600px;
+
+}
+
+.comment{
+
+font-size: 12px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-bottom:100px;
+margin-left:460px ;
+}
+
+
+#fav1{
+  border-radius: 0px;
+  background: #e1c16b;
+  box-shadow:  -5px 5px 0px #5a4d2b,
+               5px -5px 0px #ffffab;
+height:700px;
+}
+
+#fav2{
+  border-radius: 0px;
+  background: #f97683;
+  box-shadow:  -5px 5px 0px #642f34,
+               5px -5px 0px #ffbdd2;
+height:700px;
+}
+
+
+#fav3{
+  border-radius: 0px;
+  background: #89ea75;
+  box-shadow:  -5px 5px 0px #375e2f,
+               5px -5px 0px #dbffbb;
+height:700px;
+}
+
+
+
+img{
+  width:400px;
+  border-radius:20px;
+  }
+
+
+.icelist{
+  margin-bottom: 100px;
+  }
+
+h2{
+font-size: 30px;
+margin-left:20px;
+margin-bottom:10px;
+
+
+}
+
+.introT{
+font-size:30px;
+margin-left:20px;
+margin-bottom:10px;
+
+
+}
+
+.intro{
+margin-left:20px;
+margin-bottom:50px;
+margin-right: 100px 
+
+}
+
+
+.pnc{
+margin-top: 20px;
+font-size:20px;
+font-family: sans-serif;
+margin-left:20px;
+margin-bottom:20px;
+color: rgb(172, 84, 21);
+
+}
+
+.pnc1{
+  margin-left:20px;
+  margin-bottom:20px;
+  margin-right: 100px 
+  }
+
+.pnc2{
+  margin-left:20px;
+  margin-bottom:10px;
+  color: rgb(172, 84, 21);
+  font-weight: bold;
+ 
+
+}
+
+.pnc3{
+  margin-left:20px;
+  margin-right: 100px 
+}
+
+.pnci{
+margin-left:20px;
+margin-bottom:10px;
+}
+
+.rs{
+  font-size:20px;
+  font-family: sans-serif;
+  margin-left:20px;
+  margin-bottom:20px;
+  color: rgb(177, 7, 47);
+}
+
+.rs1{
+  margin-left:20px;
+  margin-bottom:20px;
+  margin-right: 100px 
+ 
+}
+
+.rsi{
+  margin-left:20px;
+  margin-bottom:10px;
+}
+
+.rs2{
+  margin-left:20px;
+  margin-right: 100px  
+}
+
+.mc{
+  font-size:20px;
+  font-family: sans-serif;
+  margin-left:20px;
+  margin-bottom:20px;
+  color: rgb(60, 180, 26);
+}
+
+.mci{
+  margin-left:20px;
+  margin-bottom:10px;
+  height: 400px; 
+}
+
+.mc1{
+  margin-left:20px;
+  margin-bottom:20px;
+  margin-right: 100px 
+}
+
+.mc2{
+  margin-left:20px;
+  margin-right: 100px 
+}
+
+
+.yours{
+margin-top: 20px;
+font-size: 21px;
+margin-left:20px;
+margin-bottom: 10px;
+
+}
+
+.yf{
+margin-left:20px; 
+}
+
+.fin{
+height: 100px;
+}
+

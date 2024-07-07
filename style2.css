@@ -1,0 +1,22 @@
+h1{
+text-align: center;
+font-size:100px;
+}
+
+img{
+    display: block; 
+    margin: auto;  
+}
+
+p{
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: azure;
+}
+
+ video{
+    display: block; 
+    margin: auto;   
+ }
+
+
